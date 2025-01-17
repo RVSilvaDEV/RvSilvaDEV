@@ -1,8 +1,13 @@
-## # 👨🏻‍💻 Raione Victor
+# 👨🏻‍💻 Raione Victor
 
 **`Desenvolvedor Front-End`**
 
 Meu nome é Raione Victor, tenho 21 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Desde a adolescência, tenho uma forte inclinação pela área de tecnologia, e aos 16 anos iniciei meus estudos e prática no desenvolvimento de software. A cada novo desafio de programação, sou constantemente impulsionado pela imensidão de possibilidades criativas e inovadoras que essa área oferece. Esse processo contínuo de aprendizado, aliada à busca incessante pelo aprimoramento técnico, é o que me motiva a expandir meus conhecimentos e a me especializar cada vez mais no campo da tecnologia.
+
+### 📲 Contatos
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvsilvadev)
+[![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.live.com/v2/?tenantId=9188040d-6c67-4c5b-b112-36a304b66dad&login_hint=raione_victor%40hotmail.com)
 
 ---
 
@@ -102,5 +107,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-
   />
 
 </p>
-
-
