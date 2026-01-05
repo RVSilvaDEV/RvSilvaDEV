@@ -51,36 +51,6 @@ Junior Developer @ Clube Certo | Minas Gerais, Brazil
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=RVSilvaDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=RVSilvaDEV&show_icons=true&theme=default&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RVSilvaDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RVSilvaDEV&layout=compact&langs_count=8&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RVSilvaDEV&layout=compact&langs_count=8&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVSilvaDEV&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-  </picture>
-</div>
-
----
-
 ## Featured Projects
 
 | Project | Description | Stack |
