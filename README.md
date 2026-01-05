@@ -1,111 +1,108 @@
-# 👨🏻‍💻 Raione Victor
+# Raione Victor
 
-**`Desenvolvedor Front-End`**
+**Full Stack Developer** focused on building scalable and user-centric digital solutions.
 
-Meu nome é Raione Victor, tenho 21 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Desde a adolescência, tenho uma forte inclinação pela área de tecnologia, e aos 16 anos iniciei meus estudos e prática no desenvolvimento de software. A cada novo desafio de programação, sou constantemente impulsionado pela imensidão de possibilidades criativas e inovadoras que essa área oferece. Esse processo contínuo de aprendizado, aliada à busca incessante pelo aprimoramento técnico, é o que me motiva a expandir meus conhecimentos e a me especializar cada vez mais no campo da tecnologia.
-
-### 📲 Contatos
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvsilvadev)
-[![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.live.com/v2/?tenantId=9188040d-6c67-4c5b-b112-36a304b66dad&login_hint=raione_victor%40hotmail.com)
+Computer Science Student @ Newton Paiva University  
+Junior Developer @ Clube Certo | Minas Gerais, Brazil
 
 ---
 
-### 💻 Linguagem e Tecnologias
+## About Me
 
-<img 
-align="left" 
-alt="HTML" 
-title="HTML"
-width="35px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-
-
-<img 
-align="left" 
-alt="CSS" 
-title="CSS"
-width="35px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-        
-
-<img 
-align="left" 
-alt="JS" 
-title="JS"
-width="35px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-
-<img 
-align="left" 
-alt="React" 
-title="React"
-width="35px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-
-
-<img 
-align="left" 
-alt="Node" 
-title="Node"
-width="35px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-        
-
-<img 
-align="left" 
-alt="MySQL" 
-title="MySQL"
-width="35px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-                
-
-<img 
-align="left" 
-alt="C#" 
-title="C#"
-width="35px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-                
-
-<img 
-align="left" 
-alt="Git" 
-title="Git"
-width="35px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-</br>
-</br>
-</br>
+- Currently working on full stack web and mobile applications
+- Focused on software architecture, clean code, and best practices
+- Always learning and improving my technical foundation
+- Open to collaborate on challenging projects
 
 ---
 
-### 📊 Estatísticas
+## Tech Stack
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RvSilvaDEV&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+**Languages**
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right:10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvSilvaDEV&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7"
-  />
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-</p>
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=RVSilvaDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=RVSilvaDEV&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RVSilvaDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RVSilvaDEV&layout=compact&langs_count=8&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RVSilvaDEV&layout=compact&langs_count=8&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVSilvaDEV&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  </picture>
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| Soon | Building portfolio projects | - |
+
+---
+
+## 2026 Focus
+
+```
+Career Growth:
+├── Deepen software architecture and design patterns knowledge
+├── Contribute to open source projects
+├── Build production-ready full stack applications
+├── Improve system design and scalability skills
+└── Transition from Junior to Mid-level Developer
+```
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvsilvadeev)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rvsilvadev@gmail.com)
