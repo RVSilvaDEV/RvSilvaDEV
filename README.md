@@ -85,6 +85,12 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RVSilvaDEV/RVSilvaDEV/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RVSilvaDEV/RVSilvaDEV/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/RVSilvaDEV/RVSilvaDEV/output/github-snake-dark.svg">
+</picture>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:DC143C,100:0D1117&height=150&section=footer)
 
 </div>
