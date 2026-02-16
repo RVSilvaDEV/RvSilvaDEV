@@ -1,10 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:DC143C,100:0D1117&height=180&section=header&animation=fadeIn&fontAlignY=35)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=RV+DEV&font=Russo+One&center=true&width=500&height=80&color=FFFFFF&vCenter=true&size=60&pause=10000&duration=3000&repeat=false)](https://git.io/typing-svg)
-
-<sub>**Full Stack Developer**</sub>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:DC143C,100:0D1117&height=250&section=header&text=RV%20DEV&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer&descSize=18&descAlignY=52&descAlign=50&descColor=CDD6F4)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Turning+ideas+into+scalable+solutions;Clean+Architecture+%7C+Cybersecurity&font=JetBrains+Mono&center=true&width=520&height=35&color=DC143C&vCenter=true&size=16&pause=1000&duration=3000)](https://git.io/typing-svg)
 
@@ -25,7 +21,7 @@
 | **Role** | Junior Developer @ **Clube Certo** |
 | **Education** | Computer Science @ **Newton Paiva University** |
 | **Location** | Minas Gerais, Brazil |
-| **Focus** | Software Architecture, Cybersecurity, Web & Mobile Development |
+| **Focus** | Software Architecture, Cybersecurity, Full Stack Development |
 
 <details>
 <summary><b>2026 Roadmap</b></summary>
