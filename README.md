@@ -1,13 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=DC143C&height=200&section=header&text=RV%20DEV&fontSize=80&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:DC143C,100:0D1117&height=220&section=header&text=RV%20DEV&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50&descColor=CDD6F4)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Vue.js+%7C+Node.js;Turning+ideas+into+scalable+solutions&font=JetBrains+Mono&center=true&width=500&height=45&color=DC143C&vCenter=true&size=18&pause=1000&duration=3000)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvsilvadeev)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rvdevtech)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvsilvadev@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=RVSilvaDEV&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/-rvsilvadev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvsilvadev@gmail.com)
 
 </div>
 
@@ -22,15 +21,15 @@
 | **Role** | Junior Developer @ **Clube Certo** |
 | **Education** | Computer Science @ **Newton Paiva University** |
 | **Location** | Minas Gerais, Brazil |
-| **Focus** | Web & Mobile Development, Software Architecture, Cloud |
+| **Focus** | Software Architecture, Cybersecurity, Web & Mobile Development |
 
 <details>
 <summary><b>2026 Roadmap</b></summary>
 <br>
 
-- Deepen software architecture and design patterns knowledge
+- Master software architecture patterns (Clean Architecture, DDD, Microservices)
+- Build expertise in cybersecurity and secure application development
 - Contribute to open source projects
-- Build production-ready full stack applications
 - Transition from Junior to Mid-level Developer
 
 </details>
@@ -44,15 +43,15 @@
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br><sub><b>PHP</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" /><br><sub><b>Vue.js</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" /><br><sub><b>React Native</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub></td>
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br><sub><b>Express</b></sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br><sub><b>NestJS</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
@@ -91,11 +90,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RVSilvaDEV/RVSilvaDEV/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RVSilvaDEV/RVSilvaDEV/output/github-snake-dark.svg">
 </picture>
-
-</div>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:DC143C&height=120&section=footer)
 
 </div>
