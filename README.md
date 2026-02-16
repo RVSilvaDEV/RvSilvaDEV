@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+digital+solutions;Clean+code+enthusiast;Always+learning+something+new&font=JetBrains+Mono&center=true&width=500&height=45&color=89B4FA&vCenter=true&size=18&pause=1000&duration=3000)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvsilvadeev)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rvdevtech)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvsilvadev@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=RVSilvaDEV&color=89B4FA&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -44,8 +45,8 @@ goals_2026:
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RVSilvaDEV&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=89B4FA&title_color=89B4FA&text_color=CDD6F4&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVSilvaDEV&layout=compact&hide_border=true&bg_color=0D1117&title_color=89B4FA&text_color=CDD6F4"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=RVSilvaDEV&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=89B4FA&title_color=89B4FA&text_color=CDD6F4&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RVSilvaDEV&layout=compact&hide_border=true&bg_color=0D1117&title_color=89B4FA&text_color=CDD6F4"/>
 </div>
 
 <div align="center">
@@ -62,7 +63,7 @@ goals_2026:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RVSilvaDEV&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=RVSilvaDEV&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
