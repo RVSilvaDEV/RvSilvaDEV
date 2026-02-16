@@ -1,8 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:DC143C,100:0D1117&height=220&section=header&text=RV%20DEV&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50&descColor=CDD6F4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:DC143C,100:0D1117&height=180&section=header&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Vue.js+%7C+Node.js;Turning+ideas+into+scalable+solutions&font=JetBrains+Mono&center=true&width=500&height=45&color=DC143C&vCenter=true&size=18&pause=1000&duration=3000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=RV+DEV&font=Russo+One&center=true&width=500&height=80&color=FFFFFF&vCenter=true&size=60&pause=10000&duration=3000&repeat=false)](https://git.io/typing-svg)
+
+<sub>**Full Stack Developer**</sub>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JavaScript+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Turning+ideas+into+scalable+solutions;Clean+Architecture+%7C+Cybersecurity&font=JetBrains+Mono&center=true&width=520&height=35&color=DC143C&vCenter=true&size=16&pause=1000&duration=3000)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvsilvadeev)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rvdevtech)
