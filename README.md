@@ -1,78 +1,85 @@
-# Raione Victor
+<div align="center">
 
-**Full Stack Developer** focused on building scalable and user-centric digital solutions.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:89B4FA&height=220&section=header&text=Raione%20Victor&fontSize=75&fontColor=CDD6F4&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50)
 
-Computer Science Student @ Newton Paiva University  
-Junior Developer @ Clube Certo | Minas Gerais, Brazil
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+scalable+digital+solutions;Clean+code+enthusiast;Always+learning+something+new&font=JetBrains+Mono&center=true&width=500&height=45&color=89B4FA&vCenter=true&size=18&pause=1000&duration=3000)](https://git.io/typing-svg)
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvsilvadeev)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvsilvadev@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=RVSilvaDEV&color=89B4FA&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ## About Me
 
-- Currently working on full stack web and mobile applications
-- Focused on software architecture, clean code, and best practices
-- Always learning and improving my technical foundation
-- Open to collaborate on challenging projects
+```yaml
+name: Raione Victor
+located_in: Minas Gerais, Brazil
+education: Computer Science @ Newton Paiva University
+current_role: Junior Developer @ Clube Certo
 
----
+fields_of_interest:
+  - Full Stack Web & Mobile Development
+  - Software Architecture & Design Patterns
+  - Cloud Computing & DevOps
+
+currently_learning:
+  - Advanced System Design
+  - Scalability & Performance
+
+goals_2026:
+  - Contribute to Open Source
+  - Build production-ready applications
+  - Transition to Mid-level Developer
+```
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,vue,react,html,css,nodejs,express,mysql,postgres,firebase,aws,git,linux,vscode&perline=8&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+</div>
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## GitHub Stats
 
-**Backend**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RVSilvaDEV&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=89B4FA&title_color=89B4FA&text_color=CDD6F4&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVSilvaDEV&layout=compact&hide_border=true&bg_color=0D1117&title_color=89B4FA&text_color=CDD6F4"/>
+</div>
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+<div align="center">
 
-**Database**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RVSilvaDEV&hide_border=true&background=0D1117&ring=89B4FA&fire=74C7EC&currStreakLabel=89B4FA&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=585B70)](https://git.io/streak-stats)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</div>
 
-**Cloud & DevOps**
+## Contribution Graph
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RVSilvaDEV&bg_color=0D1117&color=CDD6F4&line=89B4FA&point=CDD6F4&area=true&area_color=89B4FA&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+## Trophies
 
-## Featured Projects
+<div align="center">
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| Soon | Building portfolio projects | - |
+[![trophy](https://github-profile-trophy.vercel.app/?username=RVSilvaDEV&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+</div>
 
-## 2026 Focus
+<br/>
 
-```
-Career Growth:
-├── Deepen software architecture and design patterns knowledge
-├── Contribute to open source projects
-├── Build production-ready full stack applications
-├── Improve system design and scalability skills
-└── Transition from Junior to Mid-level Developer
-```
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RVSilvaDEV/RVSilvaDEV/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RVSilvaDEV/RVSilvaDEV/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RVSilvaDEV/RVSilvaDEV/output/github-snake-dark.svg">
+</picture>
 
-## Connect
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvsilvadeev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rvsilvadev@gmail.com)
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:89B4FA&height=120&section=footer)
+
+</div>
