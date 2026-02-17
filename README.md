@@ -18,7 +18,7 @@
 
 | | |
 |---|---|
-| **Role** | Junior Developer @ **Clube Certo** |
+| **Role** | Full Stack Developer @ **Clube Certo** |
 | **Education** | Computer Science @ **Newton Paiva University** |
 | **Location** | Minas Gerais, Brazil |
 | **Focus** | Software Architecture, Cybersecurity, Full Stack Development |
